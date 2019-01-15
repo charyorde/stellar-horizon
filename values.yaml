@@ -1,8 +1,6 @@
-maxPeerConnections: 50
-
 environment: {}
 
-stellarCoreUrl: http://stellar-core:11626
+stellarCoreUrl: http://stellar-core-http:11626
 
 ## Only used if postgresql.enabled is true
 stellarCorePostgresDatabase: stellar-core
